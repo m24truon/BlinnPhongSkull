@@ -1,0 +1,2 @@
+INFO: Initializing the window and first scene ( c:\users\marven\desktop\componentframework3.0\componentframework\gamescenemanager.cpp: 91)
+INFO: 1.13.0 ( c:\users\marven\desktop\componentframework3.0\componentframework\window.cpp: 66)
